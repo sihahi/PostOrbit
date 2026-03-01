@@ -192,7 +192,11 @@ Bot must be admin in channel with permission:
 
 ## 📬 Support
 
-Telegram: @AmitDas4321
+<p align="center">
+  <a href="https://t.me/AmitDas4321">
+    <img src="https://img.shields.io/badge/Contact%20on%20Telegram-@AmitDas4321-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+  </a>
+</p>
 
 ---
 
