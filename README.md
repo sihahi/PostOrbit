@@ -98,17 +98,15 @@ Example:
   "photo": "5348285704398963795.png",
   "parse_mode": "HTML",
 
-  "effect_enable": true,
-  "message_effect_id": "5107584321108051014",
-
   "has_spoiler": false,
+  "protect_content": false,
 
   "buttons_enable": true,
   "button_count": 2,
 
   "buttons": [
-    { "text": "View Repository 💻", "url": "https://github.com/AmitDas4321/PostOrbit" },
-    { "text": "Join Channel 📢", "url": "https://t.me/BlueOrbitDevs" }
+    { "text": "View Repository 💻", "style": "success", "url": "https://github.com/AmitDas4321/PostOrbit" },
+    { "text": "Join Channel 📢", "style": "primary", "url": "https://t.me/BlueOrbitDevs" }
   ]
 }
 ```
